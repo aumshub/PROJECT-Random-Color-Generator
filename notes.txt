@@ -1,0 +1,14 @@
+Color Theory: RGB (Red, Green, Blue)
+RGB stands for Red, Green, Blue.
+Each color component ranges from 0 to 255.
+
+Basic RGB Values:
+Minimum (Black): rgb(0, 0, 0)
+
+Maximum (White): rgb(255, 255, 255)
+
+Pure Red: rgb(255, 0, 0)
+
+Pure Green: rgb(0, 255, 0)
+
+Pure Blue: rgb(0, 0, 255)
