@@ -30,4 +30,4 @@ This is a basic JavaScript project that demonstrates **DOM manipulation** and **
 ---
 
 ## Live Demo
-Check out the live demo of the project hosted [here]().
+Check out the live demo of the project hosted [here](https://aumshub.github.io/PROJECT-Random-Color-Generator).
